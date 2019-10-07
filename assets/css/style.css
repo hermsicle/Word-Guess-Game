@@ -1,36 +1,17 @@
-header {
-    border: 3px solid black;
-    width: 80%;
-    height: 200px;
-    font-size: 20px;
-    text-align:center;
-    margin: 15px auto;
+body {
+    height: 100vh;
+    background-image: url(../images/1920x1280_px_food_Fries_Tomatoes-840079.jpg);
+}
+h1 {
+    color: white;
+}
+p{
+    color: white;
+}
+h4 {
+    color: white;
 }
 
-.underscore {
-    border: 3px solid black;
-    width: 80%;
-    height: 150px;
-    font-size: 100px;
-    text-align:center;
-    margin: 50px auto;
-}
-
-.rightGuess {
-    border: 3px solid black;
-    width: 80%;
-    height: 150px;
-    font-size: 20px;
-    text-align:center;
-    margin: 50px auto;
-}
-
-.wrongGuess {
-    border: 3px solid black;
-    width: 80%;
-    height: 150px;
-    font-size: 20px;
-    text-align:center;
-    margin: 50px auto;
-}
-
+.container {
+    margin: 0;
+    text-align: center;

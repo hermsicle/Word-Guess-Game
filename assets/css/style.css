@@ -8,10 +8,10 @@ h1 {
 p{
     color: white;
 }
-h4 {
+h2 {
     color: white;
 }
-
 .container {
-    margin: 0;
+    margin-top: 300px;
     text-align: center;
+}
